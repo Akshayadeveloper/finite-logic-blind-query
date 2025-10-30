@@ -1,5 +1,5 @@
 {
-  "name": "@finite-logi/blind-query",
+  "name": "@finite-logic/blind-query",
   "version": "1.0.0",
   "description": "FINITE LOGIC: BlindProxy - Homomorphic Encryprtion Core for Private Data Aggregation (Free Tier).",
   "main": "scr/BlindProxy.js",
